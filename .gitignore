@@ -212,4 +212,4 @@ iOSInjectionProject/
 
 .idea/
 *.iml
-
+*.xcodeproj/*
